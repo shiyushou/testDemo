@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/testDemoGit.iml" filepath="$PROJECT_DIR$/testDemoGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tetst/tetst.iml" filepath="$PROJECT_DIR$/tetst/tetst.iml" />
+    </modules>
+  </component>
+</project>
